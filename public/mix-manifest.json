@@ -1,4 +1,15 @@
 {
+    "/admin2/bootstrap.js": "/admin2/bootstrap.js",
+    "/admin2/chart.js": "/admin2/chart.js",
+    "/admin2/fontawesome.js": "/admin2/fontawesome.js",
+    "/admin2/jquery.js": "/admin2/jquery.js",
+    "/admin2/jquery.dataTables.js": "/admin2/jquery.dataTables.js",
+    "/admin2/jquery.easing.js": "/admin2/jquery.easing.js",
+    "/admin2/sb-admin-2.js": "/admin2/sb-admin-2.js",
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/admin2/bootstrap.css": "/admin2/bootstrap.css",
+    "/admin2/fontawesome.css": "/admin2/fontawesome.css",
+    "/admin2/sb-admin-2.css": "/admin2/sb-admin-2.css",
+    "/admin2/datatables.bootstrap4.css": "/admin2/datatables.bootstrap4.css"
 }

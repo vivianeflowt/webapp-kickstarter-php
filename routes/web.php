@@ -19,6 +19,16 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/debug', function () {
+    $user = Auth::user();
+    if (isset($user)){
+        return redirect()->action('Dashboard\DashboardController@index');
+    }
+    else {
+        echo 'NÃO AUTHORIZADO';
+    }
+});
+
 Route::get('/dashboard', 'Dashboard\DashboardController@index')->middleware('auth');
 
 

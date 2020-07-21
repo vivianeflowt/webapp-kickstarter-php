@@ -14,6 +14,7 @@ class DashboardController extends Controller
      */
     public function index()
     {
-        echo 'DASHBOAD';
+        //echo 'DASHBOAD';
+        return view('dashboard.home');
     }
 }

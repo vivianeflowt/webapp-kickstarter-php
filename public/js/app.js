@@ -37434,6 +37434,28 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
+/***/ "./node_modules/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss":
+/*!*************************************************************************************!*\
+  !*** ./node_modules/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
+/***/ "./node_modules/startbootstrap-sb-admin-2/vendor/fontawesome-free/scss/fontawesome.scss":
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/startbootstrap-sb-admin-2/vendor/fontawesome-free/scss/fontawesome.scss ***!
+  \**********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "./node_modules/timers-browserify/main.js":
 /*!************************************************!*\
   !*** ./node_modules/timers-browserify/main.js ***!
@@ -49882,14 +49904,16 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ 0:
-/*!*************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
-  \*************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./node_modules/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss ./node_modules/startbootstrap-sb-admin-2/vendor/fontawesome-free/scss/fontawesome.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! /var/www/your_domain/webapp/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /var/www/your_domain/webapp/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /var/www/your_domain/webapp/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss */"./node_modules/startbootstrap-sb-admin-2/vendor/bootstrap/scss/bootstrap.scss");
+module.exports = __webpack_require__(/*! /var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/vendor/fontawesome-free/scss/fontawesome.scss */"./node_modules/startbootstrap-sb-admin-2/vendor/fontawesome-free/scss/fontawesome.scss");
 
 
 /***/ })
