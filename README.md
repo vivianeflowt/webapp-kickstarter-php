@@ -8,3 +8,5 @@
 <p> php artisan migrate:fresh </p>
 <p> npm run dev </p>
 
+<h3> GIT SAVE </h3>
+<p>git push -u origin master</p>
