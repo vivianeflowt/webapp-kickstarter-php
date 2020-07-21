@@ -1,6 +1,10 @@
 {
     "/admin2/bootstrap.js": "/admin2/bootstrap.js",
     "/admin2/chart.js": "/admin2/chart.js",
+    "/admin2/chart-area-demo.js": "/admin2/chart-area-demo.js",
+    "/admin2/chart-bar-demo.js": "/admin2/chart-bar-demo.js",
+    "/admin2/chart-pie-demo.js": "/admin2/chart-pie-demo.js",
+    "/admin2/datatables-demo.js": "/admin2/datatables-demo.js",
     "/admin2/fontawesome.js": "/admin2/fontawesome.js",
     "/admin2/jquery.js": "/admin2/jquery.js",
     "/admin2/jquery.dataTables.js": "/admin2/jquery.dataTables.js",

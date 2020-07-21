@@ -37,6 +37,13 @@ mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/vendo
 mix.styles('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/vendor/datatables/dataTables.bootstrap4.css','public/admin2/datatables.bootstrap4.css');
 mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/vendor/datatables/jquery.dataTables.js','public/admin2/jquery.dataTables.js');
 
+// SBAdmin2 - Demo
+mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/js/demo/chart-area-demo.js','public/admin2/chart-area-demo.js');
+mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/js/demo/chart-bar-demo.js','public/admin2/chart-bar-demo.js');
+mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/js/demo/chart-pie-demo.js','public/admin2/chart-pie-demo.js');
+mix.js('/var/www/your_domain/webapp/node_modules/startbootstrap-sb-admin-2/js/demo/datatables-demo.js','public/admin2/datatables-demo.js');
+
+
 
 
 
